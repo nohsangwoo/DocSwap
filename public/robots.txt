@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /private/
+
+# Host
+Host: https://docswap.ludgi.ai
+
+# Sitemaps
+Sitemap: https://docswap.ludgi.ai/sitemap.xml
